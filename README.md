@@ -1,37 +1,8 @@
-## Welcome to GitHub Pages
+Midterm Project by Isaac Ang, Daniel Suh, and Abdulaziz Khader
+Task: Predict poem setting using machine learning. 
 
-You can use the [editor on GitHub](https://github.com/MehtA-Tutoring-DHMLBootcamp21/GitGood/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MehtA-Tutoring-DHMLBootcamp21/GitGood/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Method:
+- Create a list of countries/cities for every poem using a pre-trained NLP model
+- Run through pycountries to help with edge cases and add these countries to the list
+- For poems that NLP and pycountries did not predict a location for, use word2Vec to associate objects in the poem with pycountries and output the country with the closest relationship to the poem's collection of objects
+- For poems that NLP and pycountries predicted several locations for, perform the same operation as above but this time compare the collection of objects to the locations NLP and pycountries predicted for the poem
