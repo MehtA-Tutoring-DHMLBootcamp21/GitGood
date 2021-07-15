@@ -22,7 +22,7 @@
                 <li><a href="https://www.sicara.ai/blog/2018-04-25-python-train-model-ntlk-stanford-ner-tagger">Stanford NER Article</a></li>
                 </ul>
             <h3>View Our Code!</h3>
-            <script src="https://gist.github.com/HaripriyaMehta/f9403a041cd14ca145dc15619faf3ec0.js"></script>
+            <script src="https://gist.github.com/23danielsuh/9bedee24ffbab1f58aacbfe04ad22130"></script>
         </div>
     </body>  
 </html>
