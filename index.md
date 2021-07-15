@@ -1,10 +1,4 @@
 <html>
-     <head>
-        <title>Title of Paper</title>
-        <meta charset="utf-8">
-        <link rel="stylesheet" href="style.css">
-        <script src="index.js"></script>
-    </head>
     <body>
         <div class = "center">
             <h1>Midterm Project</h1>
