@@ -11,13 +11,13 @@ For poems that NLP and pycountries did not predict a location for, use word2Vec 
 For poems that NLP and pycountries predicted several locations for, perform the same operation as above but this time compare the collection of objects to the locations NLP and pycountries predicted for the poem</p>
             <h3>Numpy, NLTK, RE, SpaCy, Pycountry</h3>
             <ul>
-            <li><a href="https://www.nltk.org/">NLTK Library</a></li>
-            <li><a href="https://numpy.org/doc/">Numpy Library</a></li>
-            <li><a href="https://docs.python.org/3/library/re.html">RE Library</a></li>
-            <li><a href="https://spacy.io/api/doc/">SpaCy Library</a></li>
-            <li><a href="https://pypi.org/project/pycountry/">Pycountry Library</a></li>
-            <li><a href="https://www.sicara.ai/blog/2018-04-25-python-train-model-ntlk-stanford-ner-tagger">Stanford NER Article</a></li>
-            </ul>
+                <li><a href="https://www.nltk.org/">NLTK Library</a></li>
+                <li><a href="https://numpy.org/doc/">Numpy Library</a></li>
+                <li><a href="https://docs.python.org/3/library/re.html">RE Library</a></li>
+                <li><a href="https://spacy.io/api/doc/">SpaCy Library</a></li>
+                <li><a href="https://pypi.org/project/pycountry/">Pycountry Library</a></li>
+                <li><a href="https://www.sicara.ai/blog/2018-04-25-python-train-model-ntlk-stanford-ner-tagger">Stanford NER Article</a></li>
+                </ul>
             <h3>View Our Code!</h3>
             <script src="https://gist.github.com/HaripriyaMehta/f9403a041cd14ca145dc15619faf3ec0.js"></script>
         </div>
