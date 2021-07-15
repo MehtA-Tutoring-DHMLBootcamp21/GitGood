@@ -5,12 +5,12 @@
             <h2>Isaac Ang, Daniel Suh, Abdulaziz Khader</h2>
             <h3>Predict Poem Setting Using Machine Learning</h3>
             <p>Method:
-                <ul>
+                <ol>
                     <li>Create a list of countries/cities for every poem using a pre-trained NLP model</li>
                     <li>Run through pycountries to help with edge cases and add these countries to the list</li>
                     <li>For poems that NLP and pycountries did not predict a location for, use word2Vec to associate objects in the poem with pycountries and output the country with the closest relationship to the poem's collection of objects</li>
                     <li>For poems that NLP and pycountries predicted several locations for, perform the same operation as above but this time compare the collection of objects to the locations NLP and pycountries predicted for the poem</li>
-                </ul>
+                </ol>
             </p>
             <h3>Numpy, NLTK, RE, SpaCy, Pycountry</h3>
             <ul>
