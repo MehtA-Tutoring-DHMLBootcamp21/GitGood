@@ -1,4 +1,5 @@
 Midterm Project by Isaac Ang, Daniel Suh, and Abdulaziz Khader
+
 Task: Predict poem setting using machine learning. 
 
 Method:
