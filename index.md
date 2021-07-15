@@ -23,6 +23,9 @@
                 </ul>
             <h3>View Our Code!</h3>
             <script src="https://gist.github.com/23danielsuh/9bedee24ffbab1f58aacbfe04ad22130.js"></script>
+        <object data="final_output.txt" width="300" height="200">
+            Not supported
+        </object>
         </div>
     </body>  
 </html>
