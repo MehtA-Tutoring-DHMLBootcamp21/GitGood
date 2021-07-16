@@ -23,6 +23,8 @@
                 </ul>
             <h3>View Our Code!</h3>
             <script src="https://gist.github.com/23danielsuh/9bedee24ffbab1f58aacbfe04ad22130.js"></script>
+            <h3>Code with Other Possible Locations</h3>
+            <script src="https://gist.github.com/23danielsuh/d27ceba21e976b2067fdba2e3d4a8710.js"></script>
         </div>
     </body>  
 </html>
